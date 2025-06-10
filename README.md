@@ -1,6 +1,8 @@
 # Face-time-travel-machine
 This project use to implement Face-Aging with cycleGAN.
 
+**You Can Download [DEMO VIDEO HERE](https://github.com/MeditatorE/ECE285-Face-aging-method-based-on-cycleGAN/tree/main/Video)!**
+
 
 ## Abstract
 In this project, we explored the technical principles, wide applications and technical features of GAN, and chose CycleGAN among many models to achieve rejuvenation and aging of faces. We trained the model with the largest dataset available on the web and found shortcomings from the original very mature dataset and reference projects, and independently produced the dataset for testing to corroborate our conjectures, finally tried to solve them in the process of reproducing the application.
